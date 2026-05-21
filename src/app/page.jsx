@@ -32,7 +32,7 @@ const page = () => {
             </div>
           </section>
           <div className="  ml-[-27px] text-[white]">
-            <h1 className=" font-[800] text-center text-[23px]">
+            <h1 className=" font-[800] text-center text-[25px]">
               Rewards Redemption Site
             </h1>
             <p className="text-[18px] text-center">Please log in.</p>
